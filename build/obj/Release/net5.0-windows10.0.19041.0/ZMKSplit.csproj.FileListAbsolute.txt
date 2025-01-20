@@ -1,0 +1,2 @@
+C:\Users\SotaH\Downloads\zmk-split-battery-master\zmk-split-battery-master\obj\Release\net5.0-windows10.0.19041.0\ZMKSplit.csproj.AssemblyReference.cache
+C:\Users\SotaH\Downloads\zmk-split-battery-master\zmk-split-battery-master\obj\Release\net5.0-windows10.0.19041.0\ZMKSplit.csprojAssemblyReference.cache
